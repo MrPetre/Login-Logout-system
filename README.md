@@ -1,7 +1,9 @@
 # Login-Logout-system
 
-1.run npm i
-2.change the location for MongoURI
+```
+run npm i
+change the location for MongoURI
+```
 
 After that, feel free to use this as a very basic login/logout template for a bigger scale project.  That's what I intended to create this repository for.
 
